@@ -20,12 +20,13 @@ Aditya Rai here!
 **Design:** Figma, Adobe XD, Illustrator  
 **Dev tools:** Git, GitHub, VS Code, Jupyter Notebook, Docker
 
-<p align="left">
-  <a href="https://www.adityaraix.com"><img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="25"/></a>
-  <a href="mailto:adityarai.rai21@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="25"/></a>
-  <a href="https://www.linkedin.com/in/adityaraix"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="25"/></a>
-  <a href="https://github.com/adityaraix"><img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="25"/></a>
-</p>
+## 🤝 **Let's connect**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5?style=flat&logo=Google%20Chrome&logoColor=white)](https://www.adityaraix.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=Gmail&logoColor=white)](mailto:adityarai.rai21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaraix)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=flat&logo=github&logoColor=white)](https://github.com/adityaraix)
+
 
 
 > “From idea to impact, I build with discipline.”
